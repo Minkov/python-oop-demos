@@ -1,0 +1,1 @@
+Area sum of shapes is: 339.1592653589793

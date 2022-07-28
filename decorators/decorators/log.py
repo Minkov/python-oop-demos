@@ -24,3 +24,4 @@ def log(filepath='./logs.txt'):
         return decorator(func)
     else:  # @log(...)
         return decorator
+
